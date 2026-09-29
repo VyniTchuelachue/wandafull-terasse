@@ -1,0 +1,35 @@
+{
+  "name": "Wandafull Terasse",
+  "cuisine": ["Grillades", "Pizzas", "Fruits de mer", "Cocktails"],
+  "address": {
+    "street": "Rue Njo-Njo",
+    "district": "Bonapriso",
+    "city": "Douala",
+    "region": "Littoral",
+    "country": "Cameroun",
+    "plusCode": "2PH3+PCR"
+  },
+  "geo": { "lat": 4.0264899, "lng": 9.7004511 },
+  "phone": "+237699988673",
+  "phoneDisplay": "+237 6 99 98 86 73",
+  "whatsapp": "237699988673",
+  "email": "",
+  "googleMapsUrl": "https://maps.app.goo.gl/kFCR225Fhy3EL6md6",
+  "rating": { "value": 4.2, "count": 54, "source": "Google" },
+  "priceRange": { "min": 12000, "max": 16000, "currency": "XAF" },
+  "hours": [
+    { "day": 1, "open": "11:00", "close": "23:00" },
+    { "day": 2, "open": "11:00", "close": "23:00" },
+    { "day": 3, "open": "11:00", "close": "23:00" },
+    { "day": 4, "open": "11:00", "close": "23:00" },
+    { "day": 5, "open": "11:00", "close": "23:00" },
+    { "day": 6, "open": "11:00", "close": "23:00" },
+    { "day": 0, "open": "11:00", "close": "23:00" }
+  ],
+  "services": ["terrace", "takeaway", "booking", "groups"],
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "tiktok": ""
+  }
+}

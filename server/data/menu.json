@@ -1,0 +1,214 @@
+{
+  "currency": "FCFA",
+  "categories": [
+    {
+      "id": "grill",
+      "name": { "fr": "Grillades", "en": "From the grill" },
+      "description": {
+        "fr": "Grillées minute au charbon, servies avec la sauce piment maison.",
+        "en": "Charcoal-grilled to order, served with our house pepper sauce."
+      },
+      "items": [
+        {
+          "name": { "fr": "Porc braisé", "en": "Braised grilled pork" },
+          "description": {
+            "fr": "Porc mariné aux épices, grillé lentement, oignons et piment frais.",
+            "en": "Spice-marinated pork, slow-grilled, with onions and fresh chilli."
+          },
+          "price": 6500,
+          "tags": ["signature"]
+        },
+        {
+          "name": { "fr": "Saucisses de porc grillées", "en": "Grilled pork sausages" },
+          "description": {
+            "fr": "Saucisses dorées au grill, moutarde et condiments.",
+            "en": "Golden grilled sausages with mustard and relishes."
+          },
+          "price": 5000
+        },
+        {
+          "name": { "fr": "Brochettes de bœuf (soya)", "en": "Beef skewers (soya)" },
+          "description": {
+            "fr": "Bœuf tendre au mélange d'épices soya, oignons rouges.",
+            "en": "Tender beef in soya spice blend, with red onions."
+          },
+          "price": 4500
+        },
+        {
+          "name": { "fr": "Blanc de poulet grillé", "en": "Grilled chicken breast" },
+          "description": {
+            "fr": "Légumes sautés, riz parfumé ou plantain au choix.",
+            "en": "Sautéed vegetables, with fragrant rice or plantain."
+          },
+          "price": 7000
+        },
+        {
+          "name": { "fr": "Demi-poulet braisé", "en": "Half grilled chicken" },
+          "description": {
+            "fr": "Mariné aux herbes et à l'ail, accompagnement au choix.",
+            "en": "Herb and garlic marinade, with a side of your choice."
+          },
+          "price": 7500
+        },
+        {
+          "name": { "fr": "Poisson braisé", "en": "Grilled whole fish" },
+          "description": {
+            "fr": "Selon arrivage, farci aux épices et grillé entier.",
+            "en": "Catch of the day, stuffed with spices and grilled whole."
+          },
+          "price": 9000
+        }
+      ]
+    },
+    {
+      "id": "platters",
+      "name": { "fr": "Plateaux à partager", "en": "Sharing platters" },
+      "description": {
+        "fr": "Un assortiment copieux de grillades et d'accompagnements pour toute la table.",
+        "en": "A generous spread of grilled meats and sides for the whole table."
+      },
+      "items": [
+        {
+          "name": { "fr": "Menu S", "en": "Menu S" },
+          "description": {
+            "fr": "Pour 2 personnes · porc, saucisses, brochettes, 2 accompagnements.",
+            "en": "Serves 2 · pork, sausages, skewers, 2 sides."
+          },
+          "price": 25000
+        },
+        {
+          "name": { "fr": "Menu M", "en": "Menu M" },
+          "description": {
+            "fr": "Pour 4 personnes · varié et copieux, idéal entre amis.",
+            "en": "Serves 4 · varied and hearty, perfect with friends."
+          },
+          "price": 45000,
+          "tags": ["popular"]
+        },
+        {
+          "name": { "fr": "Menu L", "en": "Menu L" },
+          "description": {
+            "fr": "Pour 6 à 8 personnes · le grand festin des sorties d'équipe.",
+            "en": "Serves 6 to 8 · the big feast for team outings."
+          },
+          "price": 80000
+        }
+      ]
+    },
+    {
+      "id": "pizza",
+      "name": { "fr": "Pizzas", "en": "Pizzas" },
+      "description": {
+        "fr": "Pâte fine et croustillante, cuite à la commande.",
+        "en": "Thin, crispy crust, baked to order."
+      },
+      "items": [
+        {
+          "name": { "fr": "Margherita", "en": "Margherita" },
+          "description": { "fr": "Tomate, mozzarella, basilic.", "en": "Tomato, mozzarella, basil." },
+          "price": 6000
+        },
+        {
+          "name": { "fr": "Reine", "en": "Regina" },
+          "description": { "fr": "Tomate, mozzarella, jambon, champignons.", "en": "Tomato, mozzarella, ham, mushrooms." },
+          "price": 7500
+        },
+        {
+          "name": { "fr": "Piquante", "en": "Spicy" },
+          "description": { "fr": "Pepperoni, piment, oignons, olives.", "en": "Pepperoni, chilli, onions, olives." },
+          "price": 8000
+        },
+        {
+          "name": { "fr": "La Wandafull", "en": "The Wandafull" },
+          "description": {
+            "fr": "Poulet grillé, poivrons, oignons rouges, sauce maison.",
+            "en": "Grilled chicken, peppers, red onions, house sauce."
+          },
+          "price": 9500,
+          "tags": ["signature"]
+        }
+      ]
+    },
+    {
+      "id": "sea",
+      "name": { "fr": "Fruits de mer", "en": "From the sea" },
+      "description": {
+        "fr": "Fraîcheur garantie, selon arrivage.",
+        "en": "Freshness guaranteed, subject to availability."
+      },
+      "items": [
+        {
+          "name": { "fr": "Huîtres · les 6", "en": "Oysters · half dozen" },
+          "description": { "fr": "Citron, vinaigrette à l'échalote.", "en": "Lemon, shallot vinaigrette." },
+          "price": 9000
+        },
+        {
+          "name": { "fr": "Huîtres · les 12", "en": "Oysters · dozen" },
+          "description": { "fr": "Citron, vinaigrette à l'échalote.", "en": "Lemon, shallot vinaigrette." },
+          "price": 16000
+        },
+        {
+          "name": { "fr": "Crevettes grillées", "en": "Grilled prawns" },
+          "description": { "fr": "Beurre à l'ail et persil, citron vert.", "en": "Garlic-parsley butter, lime." },
+          "price": 9500
+        }
+      ]
+    },
+    {
+      "id": "sides",
+      "name": { "fr": "Accompagnements", "en": "Sides" },
+      "description": { "fr": "Pour compléter votre assiette.", "en": "To round out your plate." },
+      "items": [
+        { "name": { "fr": "Plantain mûr frit", "en": "Fried sweet plantain" }, "price": 1500 },
+        { "name": { "fr": "Frites maison", "en": "House fries" }, "price": 1500 },
+        { "name": { "fr": "Riz parfumé", "en": "Fragrant rice" }, "price": 1500 },
+        { "name": { "fr": "Bâton de manioc", "en": "Cassava stick (bâton)" }, "price": 1000 },
+        { "name": { "fr": "Légumes sautés", "en": "Sautéed vegetables" }, "price": 2000 }
+      ]
+    },
+    {
+      "id": "drinks",
+      "name": { "fr": "Cocktails & boissons", "en": "Cocktails & drinks" },
+      "description": {
+        "fr": "Cocktails maison, jus naturels pressés et boissons fraîches.",
+        "en": "House cocktails, fresh-pressed juices and cold drinks."
+      },
+      "items": [
+        {
+          "name": { "fr": "Cocktail Wandafull", "en": "Wandafull cocktail" },
+          "description": {
+            "fr": "Rhum, fruit de la passion, ananas, touche de gingembre.",
+            "en": "Rum, passion fruit, pineapple, a hint of ginger."
+          },
+          "price": 5000,
+          "tags": ["signature"]
+        },
+        {
+          "name": { "fr": "Mojito", "en": "Mojito" },
+          "description": { "fr": "Rhum, menthe fraîche, citron vert.", "en": "Rum, fresh mint, lime." },
+          "price": 5000
+        },
+        {
+          "name": { "fr": "Piña colada", "en": "Piña colada" },
+          "description": { "fr": "Rhum, coco, ananas.", "en": "Rum, coconut, pineapple." },
+          "price": 5000
+        },
+        {
+          "name": { "fr": "Mocktail tropical", "en": "Tropical mocktail" },
+          "description": { "fr": "Sans alcool · mangue, passion, citron.", "en": "Alcohol-free · mango, passion fruit, lemon." },
+          "price": 3500
+        },
+        {
+          "name": { "fr": "Jus naturels", "en": "Fresh juices" },
+          "description": { "fr": "Foléré, gingembre, ananas ou baobab.", "en": "Hibiscus (foléré), ginger, pineapple or baobab." },
+          "price": 2000
+        },
+        {
+          "name": { "fr": "Bières & sodas", "en": "Beers & sodas" },
+          "description": { "fr": "Sélection locale et importée, bien fraîche.", "en": "Local and imported, ice cold." },
+          "price": 1500
+        }
+      ]
+    }
+  ]
+}
